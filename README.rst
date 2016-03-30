@@ -13,6 +13,10 @@ Requirements:
 2. `sockjs-tornado`_>=0.0.5
 3. `django`_>=1.4
 
+GitHub:
+-------------
+https://github.com/dadasoz/pushnote
+
 Installation:
 -------------
 
