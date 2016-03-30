@@ -10,7 +10,7 @@ description = ("A simple django plugin for sending push notifications"
 
 setup(
     name="pushnote",
-    version="0.0.1",
+    version="0.0.2",
     author="Dadaso Zanzane",
     author_email="dada.z888@gmail.com",
     description=description,
